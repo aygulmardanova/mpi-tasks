@@ -31,6 +31,10 @@
 *.out
 *.app
 
+# Intellij Idea
+.idea
+*.iml
+
 # CMake
 cmake-build-*/
 
