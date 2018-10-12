@@ -31,5 +31,8 @@
 *.out
 *.app
 
+# CMake
+cmake-build-*/
+
 # MAC OS
 .DS_Store
